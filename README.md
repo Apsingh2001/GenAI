@@ -1,0 +1,2 @@
+# GenAI
+Tutedude GenAI Assignments
