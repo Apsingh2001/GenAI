@@ -1,0 +1,3 @@
+Laptop | 75000
+Headphones | 2500
+Keyboard | 1800

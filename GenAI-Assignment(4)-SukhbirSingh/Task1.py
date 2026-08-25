@@ -4,7 +4,7 @@
 3. Open a file named sales_data.txt in write mode.
 4. Write each sale on a new line in the file.
 5. Close the file, then reopen it and print its contents.
-Extra (optional): Write the data in comma-separated format instead of separate lines.'''
+6. Write the data in comma-separated format instead of separate lines.'''
 
 sales = [1200, 450, 980, 1500, 3000]
 
